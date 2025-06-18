@@ -1,0 +1,12 @@
+name: AllayReports
+version: 1.0
+depend: [AllayCommand]
+main: allayplugins.stompado.AllayReports
+authors: [ Stompado ]
+commands:
+  report:
+    aliases: [reportar]
+  reports:
+    aliases: [reportes]
+  hreports:
+    aliases: [hreportes]

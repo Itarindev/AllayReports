@@ -1,0 +1,28 @@
+Messages:
+  All:
+    PlayerNotFound: "&cEsse jogador nao existe."
+    ReportedIsPlayer: "&cVoce nao pode reportar a si mesmo!"
+    ReportedIsStaff: "&cVoce nao pode reportar esse jogador!"
+    SendReport:
+      - ""
+      - "&e&lSEU REPORTE FOI ENVIADO!"
+      - ""
+      - "&fReportado: &e{reported_name}"
+      - "&fMotivo: &e{report_reason}"
+      - ""
+      - "&aMuito obrigado por contribuir com o servidor!"
+  Staffs:
+    ChangeState:
+      - ""
+      - "&a&lMude o status do reporte!"
+      - ""
+      - "&a-> Pendente, Resolvido ou Falso"
+    ReceivedReport:
+      - ""
+      - "&e&lUM NOVO REPORTE FOI ENVIADO!"
+      - ""
+      - "&fUtilize &e/reports &fpara ver!"
+      - ""
+    TeleportedThePlayer: "&aVoce teleportou ate o jogador &e{reported_name}&a."
+    ExcludedReport: "&aVoce &cexcluiu &ao reporte com sucesso."
+    ChangedState: "&aVoce alterou o status do reporte para {new_state} &acom sucesso."
