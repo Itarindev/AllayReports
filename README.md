@@ -2,6 +2,7 @@
 O AllayReportes é um plugin completo e otimizado para servidores Bukkit/Spigot que permite o gerenciamento avançado de denúncias de jogadores. Desenvolvido com foco em performance e personalização, ele é a ferramenta ideal para manter a ordem e a justiça em seu servidor!
 
 ⚙️ Funcionalidades:
+
 ✅ Sistema de Armazenamento MySQL/SQLite
 Escolha entre MySQL ou SQLite para armazenar todos os dados com segurança e eficiência!
 
